@@ -21,7 +21,7 @@ public class User {
 				Patient P = new Patient();
 				P.choice();
 				break;
-				
+				return;
 			case 3:
 				Doctor D = new Doctor();
 				D.choice();
